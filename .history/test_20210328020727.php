@@ -1,0 +1,3 @@
+DB_DATABASE=trazenet_trazenet
+DB_USERNAME=trazenet_trazenet
+DB_PASSWORD=trazenet12345678
